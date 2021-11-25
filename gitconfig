@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = shane.garland1@gmail.com
+	name = Shane Garland
